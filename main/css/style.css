@@ -1,0 +1,13 @@
+body {
+    background-image: url('fon.jpg');
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: "Comic Sans MS", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.cfbs {
+    margin-left: 45px;
+}
